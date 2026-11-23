@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Personal StudyFlow tasks stay on this computer.
+/localdata/
